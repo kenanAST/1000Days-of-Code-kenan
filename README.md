@@ -1,3 +1,4 @@
+
 # 1000 Days of Code Daily Updates Journal
 **Contains personal notes of 1000 days of code learning**
 
@@ -14,6 +15,9 @@
 	- Use the hash as a label.
 	- Share the hash with analyst to identify a malware.
 	- Search for the hash online to see if a malware has already been identified.
-- **Common hash functions in malware analysis:** The Message-Digest Algorithm MD5 is the most commonly used for malware analysis, Secure Hash Algorithm 1 (SHA-1) is also popular.
+- **Common hash functions in malware analysis:** 
+	1. The Message-Digest Algorithm MD5 is the most commonly used for malware analysis.
+	2. Secure Hash Algorithm 1 (SHA-1) is also popular.
+	
 - **Finding Strings**
--   **Packed and Obsfucated Malware*
+- **Packed and Obsfucated Malware**
