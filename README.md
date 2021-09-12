@@ -9,6 +9,7 @@
 - **File Signatures** - Identifiable piece of known suspiscious code.
 - **Heuristics** - Behavioural and pattern matching analysis.
 - **Hashing** - program fingerprints, used to produce a unique hash that is used to identify a program.
+- 
 **Hash usage:**
 		- Use the hash as a label.
 		- Share the hash with analyst to identify a malware.
