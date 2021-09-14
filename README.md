@@ -1,4 +1,5 @@
 
+
 # 1000 Days of Code Daily Updates Journal
 **Contains personal notes of 1000 days of code learning**
 
@@ -21,3 +22,7 @@
 	
 - **Finding Strings**
 - **Packed and Obsfucated Malware**
+
+ ## Day 26 - byteCode to String formating tool
+- **aLIEz** - started developing a tool called *aLIEz* that will auto format program strings references with readibility in mind. This is meant to be used in static analysis for reverse engineering.
+- **Electron** - decided to use electron for *aLIEz* since its based on web technologies. Having a lot of problems currently, will continue to resolve in the upcoming days.
